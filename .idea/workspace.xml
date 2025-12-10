@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0cc9b1-c0b6-4044-a6c3-b414867291ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/stringsbasics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stringpgm.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stringsbasics.py" beforeDir="false" afterPath="$PROJECT_DIR$/stringsbasics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sushkad"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sushkad/scrimbamac.git",
+    "accountId": "4fb903e2-40d8-4568-a1f7-8581818a8c1a"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -34,24 +47,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.arithmeticop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.datatypescasting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.datatypespgm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.daypasspgm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.printstmtpgflow.executor&quot;: &quot;Run&quot;,
-    &quot;Python.userinput.executor&quot;: &quot;Run&quot;,
-    &quot;Python.userinputpgm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.arithmeticop.executor": "Run",
+    "Python.datatypescasting.executor": "Run",
+    "Python.datatypespgm.executor": "Run",
+    "Python.daypasspgm.executor": "Run",
+    "Python.printstmtpgflow.executor": "Run",
+    "Python.stringpgm.executor": "Run",
+    "Python.stringsbasics.executor": "Run",
+    "Python.userinput.executor": "Run",
+    "Python.userinputpgm.executor": "Run",
+    "Python.variables.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
