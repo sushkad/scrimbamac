@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0cc9b1-c0b6-4044-a6c3-b414867291ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/stringpgm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pitstoptimeropti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stringfindreplaceformatting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stringsbasics.py" beforeDir="false" afterPath="$PROJECT_DIR$/stringsbasics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,7 @@
     "Python.datatypespgm.executor": "Run",
     "Python.daypasspgm.executor": "Run",
     "Python.printstmtpgflow.executor": "Run",
+    "Python.stringfindreplaceformatting.executor": "Run",
     "Python.stringpgm.executor": "Run",
     "Python.stringsbasics.executor": "Run",
     "Python.userinput.executor": "Run",
