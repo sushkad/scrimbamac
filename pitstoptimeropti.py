@@ -36,5 +36,7 @@ print("\n--- pit stop summary ---")
 print(f"total pit stop time: {total_pit_time} seconds")
 print(f"pit percentage: {pit_percentage} %")
 
+
+# Optional feed back
 if pit_percentage > 5:
     print(" You need a new pit crew. ")
