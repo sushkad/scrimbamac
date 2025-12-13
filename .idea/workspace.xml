@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0cc9b1-c0b6-4044-a6c3-b414867291ee" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pitstoptimeropti.py" beforeDir="false" afterPath="$PROJECT_DIR$/pitstoptimeropti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listbasics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,7 @@
     "Python.datatypescasting.executor": "Run",
     "Python.datatypespgm.executor": "Run",
     "Python.daypasspgm.executor": "Run",
+    "Python.listbasics.executor": "Run",
     "Python.pitstoptimeropti.executor": "Run",
     "Python.printstmtpgflow.executor": "Run",
     "Python.stringfindreplaceformatting.executor": "Run",
