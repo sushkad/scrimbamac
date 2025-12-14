@@ -5,17 +5,17 @@ sales_w2 =[12,4,26,10,7,28]
 
 sales =[]
 
-new_day = input("Enter # of lemonades for new days")
+new_day = input("Enter # of lemonades for new days : ")
 sales_w2.append(int(new_day))
 
 
 sales = sales_w1 + sales_w2
 
-sales.sort()
+#sales.sort()
 
-worst_day = sales[0] * 1.5
-best_day = sales[-1] * 1.5
+worst_day = min(sales) * 1.5
+best_day = max(sales) * 1.5
 
-print(worst_day)
-print(best_day)
-print(sales)
+print(f'worst_day : {worst_day}')
+print(f'best_day : {best_day}')
+print(f'sales : {sales}')
