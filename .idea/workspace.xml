@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0cc9b1-c0b6-4044-a6c3-b414867291ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/splitandjoin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Splitandjoinexercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuples.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listexcercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/listexcercise.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Splitandjoinexercise.executor": "Run",
     "Python.arithmeticop.executor": "Run",
     "Python.datatypescasting.executor": "Run",
     "Python.datatypespgm.executor": "Run",
@@ -59,10 +61,12 @@
     "Python.listexcercise.executor": "Run",
     "Python.pitstoptimeropti.executor": "Run",
     "Python.printstmtpgflow.executor": "Run",
+    "Python.sets.executor": "Run",
     "Python.splitandjoin.executor": "Run",
     "Python.stringfindreplaceformatting.executor": "Run",
     "Python.stringpgm.executor": "Run",
     "Python.stringsbasics.executor": "Run",
+    "Python.tuples.executor": "Run",
     "Python.userinput.executor": "Run",
     "Python.userinputpgm.executor": "Run",
     "Python.variables.executor": "Run",
