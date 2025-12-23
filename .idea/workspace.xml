@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0cc9b1-c0b6-4044-a6c3-b414867291ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ComparisonsandBoolean.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifelseelif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditionals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifelsepgm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifelsepgm1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ifelseelif.py" beforeDir="false" afterPath="$PROJECT_DIR$/ifelseelif.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +65,9 @@
     "Python.datatypescasting.executor": "Run",
     "Python.datatypespgm.executor": "Run",
     "Python.daypasspgm.executor": "Run",
+    "Python.ifelseelif.executor": "Run",
+    "Python.ifelsepgm.executor": "Run",
+    "Python.ifelsepgm1.executor": "Run",
     "Python.listbasics.executor": "Run",
     "Python.listexcercise.executor": "Run",
     "Python.pitstoptimeropti.executor": "Run",
