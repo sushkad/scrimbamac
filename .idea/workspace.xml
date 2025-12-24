@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0cc9b1-c0b6-4044-a6c3-b414867291ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/conditionals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifelsepgm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifelsepgm1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setspgm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whileloop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifelseelif.py" beforeDir="false" afterPath="$PROJECT_DIR$/ifelseelif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conditionals.py" beforeDir="false" afterPath="$PROJECT_DIR$/conditionals.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +61,7 @@
     "Python.Splitandjoinexercise.executor": "Run",
     "Python.arithmeticop.executor": "Run",
     "Python.comments.executor": "Run",
+    "Python.conditionals.executor": "Run",
     "Python.datatypescasting.executor": "Run",
     "Python.datatypespgm.executor": "Run",
     "Python.daypasspgm.executor": "Run",
@@ -73,6 +73,7 @@
     "Python.pitstoptimeropti.executor": "Run",
     "Python.printstmtpgflow.executor": "Run",
     "Python.sets.executor": "Run",
+    "Python.setspgm.executor": "Run",
     "Python.splitandjoin.executor": "Run",
     "Python.stringfindreplaceformatting.executor": "Run",
     "Python.stringpgm.executor": "Run",
@@ -81,6 +82,7 @@
     "Python.userinput.executor": "Run",
     "Python.userinputpgm.executor": "Run",
     "Python.variables.executor": "Run",
+    "Python.whileloop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
