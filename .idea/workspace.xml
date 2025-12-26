@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0cc9b1-c0b6-4044-a6c3-b414867291ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/setspgm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whileloop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffeeorderqueuechallenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whilepgm.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conditionals.py" beforeDir="false" afterPath="$PROJECT_DIR$/conditionals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setspgm.py" beforeDir="false" afterPath="$PROJECT_DIR$/setspgm.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +83,7 @@
     "Python.userinputpgm.executor": "Run",
     "Python.variables.executor": "Run",
     "Python.whileloop.executor": "Run",
+    "Python.whilepgm.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
