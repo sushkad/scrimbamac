@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0cc9b1-c0b6-4044-a6c3-b414867291ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Coffeeorderqueuechallenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whilepgm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forloopnesting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setspgm.py" beforeDir="false" afterPath="$PROJECT_DIR$/setspgm.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +50,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Coffeeorderqueuechallenge.executor": "Run",
     "Python.ComparisonsandBoolean.executor": "Run",
     "Python.FunctionExercise.executor": "Run",
     "Python.FunctionNotation.executor": "Run",
@@ -65,6 +64,7 @@
     "Python.datatypescasting.executor": "Run",
     "Python.datatypespgm.executor": "Run",
     "Python.daypasspgm.executor": "Run",
+    "Python.forloopnesting.executor": "Run",
     "Python.ifelseelif.executor": "Run",
     "Python.ifelsepgm.executor": "Run",
     "Python.ifelsepgm1.executor": "Run",
