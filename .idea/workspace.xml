@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0cc9b1-c0b6-4044-a6c3-b414867291ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/enumeratethis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phonenumbernormalizerchallenge.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phonenumbernormalizerchallenger.py" beforeDir="false" afterPath="$PROJECT_DIR$/phonenumbernormalizerchallenger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phonenumbernormalizerchallenger.py" beforeDir="false" afterPath="$PROJECT_DIR$/setspgm01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +66,7 @@
     "Python.datatypescasting.executor": "Run",
     "Python.datatypespgm.executor": "Run",
     "Python.daypasspgm.executor": "Run",
+    "Python.enumeratethis.executor": "Run",
     "Python.forloopnesting.executor": "Run",
     "Python.forlooppgm.executor": "Run",
     "Python.ifelseelif.executor": "Run",
@@ -71,6 +74,7 @@
     "Python.ifelsepgm1.executor": "Run",
     "Python.listbasics.executor": "Run",
     "Python.listexcercise.executor": "Run",
+    "Python.phonenumbernormalizerchallenge.executor": "Run",
     "Python.phonenumbernormalizerchallenger.executor": "Run",
     "Python.pitstoptimeropti.executor": "Run",
     "Python.printstmtpgflow.executor": "Run",
