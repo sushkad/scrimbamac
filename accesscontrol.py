@@ -13,8 +13,35 @@
 #    - Sort both lists alphabetically.
 #    - Display the total number of approved and denied visitors.
 
-list_one = [""]
-list_two = [""]
 
-for i in list_one :
-    print(i)
+revoked_badge = {"X123","B789","Z999"}
+
+approved =[]
+denied =[]
+
+while True:
+    name = input("Enter person's name (or type done to finish): ")
+    if name.lower() == "done":
+        break
+
+    badge = input("Enter person's badge: ").strip().upper()
+
+    if badge in revoked_badge:
+        denied.append(name)
+        print(f"[Access Denied] {name} - Revoked badge")
+    else:
+        approved.append(name)
+        print(f"[Access Granted] {name}")
+
+print("===== Access Summary =====")
+print("✅ Approved Visitors:")
+for person in sorted(approved):
+    print(f" - {person}")
+
+print(" Denied Visitors:")
+for person in sorted(denied):
+    print(f" - {person}")
+
+
+print(f"Total Approved: {len(approved)}")
+print(f"Total Denied: {len(denied)}")
