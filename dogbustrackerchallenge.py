@@ -28,3 +28,8 @@ bus = {
     2: {"name": "Otis", "breed": "French Bulldog", "pickup": "8:15 AM", "dropoff": "4:15 PM"},
     3: {"name": "Willow", "breed": "Border Collie", "pickup": "8:30 AM", "dropoff": "4:30 PM"},
 }
+
+print("--Starting roster --")
+
+for seat , info in bus.items():
+    print(f"seat {seat}: {info['name']} (pickup {info['pickup']})"
