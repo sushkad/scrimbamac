@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0cc9b1-c0b6-4044-a6c3-b414867291ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filehandling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/friends.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greeting.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movies.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exceptions-tryexceptraise.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +52,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Coffeeorderqueuechallenge.executor": "Run",
     "Python.ComparisonsandBoolean.executor": "Run",
+    "Python.Exceptions-tryexceptraise.executor": "Run",
     "Python.FunctionExercise.executor": "Run",
     "Python.FunctionNotation.executor": "Run",
     "Python.Functions.executor": "Run",
