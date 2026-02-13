@@ -9,6 +9,7 @@
 #Ver 1.5 print inventory before and after purchases as one department_store of stuff(combine inventories from all stores into one...pretend Big Biz bought all the local stores, and want constant reporting for inventory management...)
 # as in all games there is a special way to do this that actually makes money and solves the problem...can you find 'them'? Do you know why? May require knowledge of actual python 'lore'
 
+'''
 #create stores
 freelancers = {'name':'freelancing Shop','brian': 70, 'black knight':20, 'biccus diccus':100, 'grim reaper':500, 'minstrel':-15}
 antiques = {'name':'Antique Shop','french castle':400, 'wooden grail':3, 'scythe':150, 'catapult':75, 'german joke':5}
@@ -25,3 +26,48 @@ for shop in (freelancers,antiques,pet_shop) :
     buy_items = ", ".join(list(cart.keys()))
 print(f'You Purchased {buy_items}. Today it is all free. Have a nice day of mayhem!')
 
+
+'''
+
+# Stores inventory
+stores = {
+    "Blacksmith": ["sword", "shield", "armor"],
+    "Food Shop": ["bread", "meat", "cheese"],
+    "Magic Shop": ["potion", "spellbook", "wand"]
+}
+
+# Player bag
+bag = []
+
+print("⚔️ Your village is under attack! Visit each store and pick ONE item!")
+
+# Loop through each store
+for store_name, items in stores.items():
+    print(f"\n--- Welcome to {store_name} ---")
+
+    while True:
+        print("Available items:", ", ".join(items))
+        choice = input("Type item name to take it OR type 'next': ").lower()
+
+        # Move to next store
+        if choice == "next":
+            print("You leave the store.")
+            break
+
+        # Take item
+        elif choice in items:
+            bag.append(choice)
+            items.remove(choice)  # Remove from inventory
+            print(f"You took {choice}!")
+            break
+
+        else:
+            print("Invalid item, try again!")
+
+# End game summary
+print("\n🎒 Items you collected:")
+if bag:
+    for item in bag:
+        print("-", item)
+else:
+    print("You collected nothing!")
