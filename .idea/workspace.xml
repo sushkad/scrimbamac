@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0cc9b1-c0b6-4044-a6c3-b414867291ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Function to sort a list of strings alphabetically.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dictionaries exercise 2.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionaries exercise 2.0.py" afterDir="false" />
     </list>
@@ -55,6 +56,7 @@
     &quot;Python.ComparisonsandBoolean.executor&quot;: &quot;Run&quot;,
     &quot;Python.Compound Interest.executor&quot;: &quot;Run&quot;,
     &quot;Python.Count Number of Words in a Sentence.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dictionaries exercise 2.0.executor&quot;: &quot;Run&quot;,
     &quot;Python.Exceptions-tryexceptraise.executor&quot;: &quot;Run&quot;,
     &quot;Python.FunctionExercise.executor&quot;: &quot;Run&quot;,
     &quot;Python.FunctionNotation.executor&quot;: &quot;Run&quot;,

@@ -65,7 +65,7 @@ for store_name, items in stores.items():
             print("Invalid item, try again!")
 
 # End game summary
-print("\n🎒 Items you collected:")
+print("\n Items you collected:")
 if bag:
     for item in bag:
         print("-", item)
