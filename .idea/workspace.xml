@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0cc9b1-c0b6-4044-a6c3-b414867291ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Remove Leading zeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Group employee by dept.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Remove Leading zeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Remove Leading zeros.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +62,7 @@
     "Python.FunctionExercise.executor": "Run",
     "Python.FunctionNotation.executor": "Run",
     "Python.Functions.executor": "Run",
+    "Python.Group employee by dept.executor": "Run",
     "Python.Inheritance.executor": "Run",
     "Python.Interview.executor": "Run",
     "Python.Modules.executor": "Run",
