@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0cc9b1-c0b6-4044-a6c3-b414867291ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Group employee by dept.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String pgms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Remove Leading zeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Remove Leading zeros.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +71,7 @@
     "Python.Returnstatement.executor": "Run",
     "Python.Setsexercise.executor": "Run",
     "Python.Splitandjoinexercise.executor": "Run",
+    "Python.String pgms.executor": "Run",
     "Python.Swap Two Variables.executor": "Run",
     "Python.accesscontrol.executor": "Run",
     "Python.arithmeticop.executor": "Run",
