@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0cc9b1-c0b6-4044-a6c3-b414867291ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dict27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Find Longest Word in Sentence.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String pgms.py" beforeDir="false" afterPath="$PROJECT_DIR$/string pgms.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +57,7 @@
     "Python.Count Number of Words in a Sentence.executor": "Run",
     "Python.Dictionaries exercise 2.0.executor": "Run",
     "Python.Exceptions-tryexceptraise.executor": "Run",
+    "Python.Find Longest Word in Sentence.executor": "Run",
     "Python.Function to sort a list of strings alphabetically.executor": "Run",
     "Python.FunctionExercise.executor": "Run",
     "Python.FunctionNotation.executor": "Run",
