@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0cc9b1-c0b6-4044-a6c3-b414867291ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Find Longest Word in Sentence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Counter class for easy frequency analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pylint.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Find Longest Word in Sentence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Find Longest Word in Sentence.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +57,7 @@
     "Python.ComparisonsandBoolean.executor": "Run",
     "Python.Compound Interest.executor": "Run",
     "Python.Count Number of Words in a Sentence.executor": "Run",
+    "Python.Counter class for easy frequency analysis.executor": "Run",
     "Python.Dictionaries exercise 2.0.executor": "Run",
     "Python.Exceptions-tryexceptraise.executor": "Run",
     "Python.Find Longest Word in Sentence.executor": "Run",
@@ -68,6 +71,7 @@
     "Python.Modules.executor": "Run",
     "Python.Pizza builder.executor": "Run",
     "Python.Print first letter of each word in a string.executor": "Run",
+    "Python.Pylint.executor": "Run",
     "Python.Remove Leading zeros.executor": "Run",
     "Python.Returnstatement.executor": "Run",
     "Python.Setsexercise.executor": "Run",
