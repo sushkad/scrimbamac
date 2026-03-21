@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0cc9b1-c0b6-4044-a6c3-b414867291ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/functions, lists, and loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse string without inbuild function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondlargestusing array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,6 +91,7 @@
     "Python.filehandling.executor": "Run",
     "Python.forloopnesting.executor": "Run",
     "Python.forlooppgm.executor": "Run",
+    "Python.functions, lists, and loops.executor": "Run",
     "Python.ifelseelif.executor": "Run",
     "Python.ifelsepgm.executor": "Run",
     "Python.ifelsepgm1.executor": "Run",
@@ -100,6 +102,8 @@
     "Python.phonenumbernormalizerchallenger.executor": "Run",
     "Python.pitstoptimeropti.executor": "Run",
     "Python.printstmtpgflow.executor": "Run",
+    "Python.reverse string without inbuild function.executor": "Run",
+    "Python.secondlargestusing array.executor": "Run",
     "Python.sets.executor": "Run",
     "Python.setspgm.executor": "Run",
     "Python.sortandsorted.executor": "Run",
