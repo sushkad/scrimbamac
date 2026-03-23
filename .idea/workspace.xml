@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0cc9b1-c0b6-4044-a6c3-b414867291ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/reverse string without inbuild function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/secondlargestusing array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions (Reusable Logic).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +62,7 @@
     "Python.Function to sort a list of strings alphabetically.executor": "Run",
     "Python.FunctionExercise.executor": "Run",
     "Python.FunctionNotation.executor": "Run",
+    "Python.Functions (Reusable Logic).executor": "Run",
     "Python.Functions.executor": "Run",
     "Python.Group employee by dept.executor": "Run",
     "Python.Inheritance.executor": "Run",
