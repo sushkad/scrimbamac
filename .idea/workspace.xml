@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0cc9b1-c0b6-4044-a6c3-b414867291ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/type check and coversion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +41,65 @@
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1744312700943263E-108" />
+      <entry key="MS500" value="3.9387132674999522E-22" />
+      <entry key="S2" value="8.674485647588659E-6" />
+      <entry key="S5" value="0.018194024744991523" />
+      <entry key="S10" value="0.2729002253632262" />
+      <entry key="S30" value="3.261083833733962" />
+      <entry key="S60" value="9.19112207631635" />
+      <entry key="M2" value="19.98511797729144" />
+      <entry key="M5" value="36.99510390181161" />
+      <entry key="M10" value="46.76850324626346" />
+      <entry key="M15" value="50.73586758462435" />
+      <entry key="M30" value="55.129376501721254" />
+      <entry key="H1" value="57.50162145381437" />
+      <entry key="H2" value="58.734592980275075" />
+      <entry key="H4" value="59.36318419364641" />
+      <entry key="D1" value="59.89328789864323" />
+      <entry key="W1" value="59.984741239261" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0000553905734446" />
+      <entry key="MS500" value="1.140827403562467" />
+      <entry key="S2" value="1.6137899902490034" />
+      <entry key="S5" value="1.9770226097761743" />
+      <entry key="S10" value="2.8900640762521834" />
+      <entry key="S30" value="6.671240519520331" />
+      <entry key="S60" value="9.759441490413904" />
+      <entry key="M2" value="12.294833472031447" />
+      <entry key="M5" value="14.340110695402187" />
+      <entry key="M10" value="15.136489457174408" />
+      <entry key="M15" value="15.41654073694546" />
+      <entry key="M30" value="15.704292168959256" />
+      <entry key="H1" value="15.851135147717407" />
+      <entry key="H2" value="15.925312758093034" />
+      <entry key="H4" value="15.962592412801353" />
+      <entry key="D1" value="15.993756495570713" />
+      <entry key="W1" value="15.999107852383645" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.009355671348082208" />
+      <entry key="MS500" value="0.44452521886156804" />
+      <entry key="S2" value="1.2693543403959981" />
+      <entry key="S5" value="1.80450953278234" />
+      <entry key="S10" value="2.9836460460573146" />
+      <entry key="S30" value="9.722221705834766" />
+      <entry key="S60" value="18.768198061712134" />
+      <entry key="M2" value="32.15102892661557" />
+      <entry key="M5" value="51.26938346657553" />
+      <entry key="M10" value="61.868977657177126" />
+      <entry key="M15" value="66.12763824208308" />
+      <entry key="M30" value="70.82088345854325" />
+      <entry key="H1" value="73.34625992520967" />
+      <entry key="H2" value="74.6566308558837" />
+      <entry key="H4" value="75.32413246174909" />
+      <entry key="D1" value="75.88676943327035" />
+      <entry key="W1" value="75.98380978849114" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -124,6 +184,7 @@
     "Python.stringpgm.executor": "Run",
     "Python.stringsbasics.executor": "Run",
     "Python.tuples.executor": "Run",
+    "Python.type check and coversion.executor": "Run",
     "Python.userinput.executor": "Run",
     "Python.userinputpgm.executor": "Run",
     "Python.variables.executor": "Run",
