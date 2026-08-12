@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0cc9b1-c0b6-4044-a6c3-b414867291ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dic1.2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="93" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,6 +37,10 @@
     &quot;accountId&quot;: &quot;4fb903e2-40d8-4568-a1f7-8581818a8c1a&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -46,94 +52,104 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.28marchinterview.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Classes and Objects.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Coffeeorderqueuechallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ComparisonsandBoolean.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Compound Interest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Count Number of Words in a Sentence.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Counter class for easy frequency analysis.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Dictionaries exercise 2.0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Exceptions-tryexceptraise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Find Longest Word in Sentence.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Find Second Largest arr.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Function to sort a list of strings alphabetically.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FunctionExercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FunctionNotation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Functions (Reusable Logic).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Group employee by dept.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Interview.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Modules.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Pizza builder.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Print first letter of each word in a string.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Pylint.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Remove Leading zeros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Returnstatement.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Setsexercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Splitandjoinexercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.String pgms.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Swap Two Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.accesscontrol.executor&quot;: &quot;Run&quot;,
-    &quot;Python.arithmeticop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.comments.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conditionals.executor&quot;: &quot;Run&quot;,
-    &quot;Python.datatypescasting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.datatypespgm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.daypasspgm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dictionaries.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dictionaries2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dogbustrackerchallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Python.enumeratethis.executor&quot;: &quot;Run&quot;,
-    &quot;Python.factorial using loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.filehandling.executor&quot;: &quot;Run&quot;,
-    &quot;Python.forloopnesting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.forlooppgm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.functions, lists, and loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ifelseelif.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ifelsepgm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ifelsepgm1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.listbasics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.listexcercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.loyaltypointsenginechalenge.executor&quot;: &quot;Run&quot;,
-    &quot;Python.phonenumbernormalizerchallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Python.phonenumbernormalizerchallenger.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pitstoptimeropti.executor&quot;: &quot;Run&quot;,
-    &quot;Python.printstmtpgflow.executor&quot;: &quot;Run&quot;,
-    &quot;Python.reverse string without inbuild function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.secondlargestusing array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.setspgm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sortandsorted.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sortedpgm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.splitandjoin.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string27.executor&quot;: &quot;Run&quot;,
-    &quot;Python.stringfindreplaceformatting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.stringpgm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.stringsbasics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tuples.executor&quot;: &quot;Run&quot;,
-    &quot;Python.userinput.executor&quot;: &quot;Run&quot;,
-    &quot;Python.userinputpgm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.whileloop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.whilepgm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zipunzip.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zipunzip01.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.28marchinterview.executor": "Run",
+    "Python.Classes and Objects.executor": "Run",
+    "Python.Coffeeorderqueuechallenge.executor": "Run",
+    "Python.ComparisonsandBoolean.executor": "Run",
+    "Python.Compound Interest.executor": "Run",
+    "Python.Count Number of Words in a Sentence.executor": "Run",
+    "Python.Counter class for easy frequency analysis.executor": "Run",
+    "Python.Dictionaries exercise 2.0.executor": "Run",
+    "Python.Exceptions-tryexceptraise.executor": "Run",
+    "Python.Find Longest Word in Sentence.executor": "Run",
+    "Python.Find Second Largest arr.executor": "Run",
+    "Python.Function to sort a list of strings alphabetically.executor": "Run",
+    "Python.FunctionExercise.executor": "Run",
+    "Python.FunctionNotation.executor": "Run",
+    "Python.Functions (Reusable Logic).executor": "Run",
+    "Python.Functions.executor": "Run",
+    "Python.Group employee by dept.executor": "Run",
+    "Python.Inheritance.executor": "Run",
+    "Python.Interview.executor": "Run",
+    "Python.Modules.executor": "Run",
+    "Python.Pizza builder.executor": "Run",
+    "Python.Print first letter of each word in a string.executor": "Run",
+    "Python.Pylint.executor": "Run",
+    "Python.Remove Leading zeros.executor": "Run",
+    "Python.Returnstatement.executor": "Run",
+    "Python.Setsexercise.executor": "Run",
+    "Python.Splitandjoinexercise.executor": "Run",
+    "Python.String pgms.executor": "Run",
+    "Python.Swap Two Variables.executor": "Run",
+    "Python.accesscontrol.executor": "Run",
+    "Python.arithmeticop.executor": "Run",
+    "Python.comments.executor": "Run",
+    "Python.conditionals.executor": "Run",
+    "Python.datatypescasting.executor": "Run",
+    "Python.datatypespgm.executor": "Run",
+    "Python.daypasspgm.executor": "Run",
+    "Python.dic1.2.executor": "Run",
+    "Python.dictionaries.executor": "Run",
+    "Python.dictionaries2.executor": "Run",
+    "Python.dogbustrackerchallenge.executor": "Run",
+    "Python.enumeratethis.executor": "Run",
+    "Python.factorial using loop.executor": "Run",
+    "Python.filehandling.executor": "Run",
+    "Python.forloopnesting.executor": "Run",
+    "Python.forlooppgm.executor": "Run",
+    "Python.functions, lists, and loops.executor": "Run",
+    "Python.ifelseelif.executor": "Run",
+    "Python.ifelsepgm.executor": "Run",
+    "Python.ifelsepgm1.executor": "Run",
+    "Python.listbasics.executor": "Run",
+    "Python.listexcercise.executor": "Run",
+    "Python.loyaltypointsenginechalenge.executor": "Run",
+    "Python.phonenumbernormalizerchallenge.executor": "Run",
+    "Python.phonenumbernormalizerchallenger.executor": "Run",
+    "Python.pitstoptimeropti.executor": "Run",
+    "Python.printstmtpgflow.executor": "Run",
+    "Python.reverse string without inbuild function.executor": "Run",
+    "Python.secondlargestusing array.executor": "Run",
+    "Python.sets.executor": "Run",
+    "Python.setspgm.executor": "Run",
+    "Python.sortandsorted.executor": "Run",
+    "Python.sortedpgm.executor": "Run",
+    "Python.splitandjoin.executor": "Run",
+    "Python.string27.executor": "Run",
+    "Python.stringfindreplaceformatting.executor": "Run",
+    "Python.stringpgm.executor": "Run",
+    "Python.stringsbasics.executor": "Run",
+    "Python.tuples.executor": "Run",
+    "Python.userinput.executor": "Run",
+    "Python.userinputpgm.executor": "Run",
+    "Python.variables.executor": "Run",
+    "Python.whileloop.executor": "Run",
+    "Python.whilepgm.executor": "Run",
+    "Python.zipunzip.executor": "Run",
+    "Python.zipunzip01.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0978a7220b69-9867c7d4c0a4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.28294.336" />
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
       </set>
     </attachedChunks>
   </component>
@@ -146,6 +162,9 @@
       <updated>1765188807629</updated>
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
