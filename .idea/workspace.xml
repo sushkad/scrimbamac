@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0cc9b1-c0b6-4044-a6c3-b414867291ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/convert user input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Compound Interest01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Evenorodd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Expense split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/area of rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/converting days 01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user greetings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="93" />
+    <option name="cachedIndexableFilesCount" value="96" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,61 +49,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000638654" />
-      <entry key="MS500" value="1.0294698449815016" />
-      <entry key="S2" value="2.8095851752680474" />
-      <entry key="S5" value="8.075657076074242" />
-      <entry key="S10" value="17.42031461981101" />
-      <entry key="S30" value="36.96278391879699" />
-      <entry key="S60" value="49.5596815714752" />
-      <entry key="M2" value="64.54403571223024" />
-      <entry key="M5" value="85.86540229792185" />
-      <entry key="M10" value="98.13384575391501" />
-      <entry key="M15" value="103.15727154906249" />
-      <entry key="M30" value="108.75356505504574" />
-      <entry key="H1" value="111.7902711339351" />
-      <entry key="H2" value="113.3728132098495" />
-      <entry key="H4" value="114.18073663380152" />
-      <entry key="D1" value="114.86266090059786" />
-      <entry key="W1" value="114.98036055288597" />
+      <entry key="MS100" value="1.0000000000233236" />
+      <entry key="MS500" value="1.0094719416982139" />
+      <entry key="S2" value="1.6546599996281235" />
+      <entry key="S5" value="2.8660625180945" />
+      <entry key="S10" value="4.1030163566699365" />
+      <entry key="S30" value="7.926168041623661" />
+      <entry key="S60" value="11.870302974044627" />
+      <entry key="M2" value="15.67623284425653" />
+      <entry key="M5" value="19.09147746595136" />
+      <entry key="M10" value="22.624579335803347" />
+      <entry key="M15" value="30.887052637261405" />
+      <entry key="M30" value="68.01304951804936" />
+      <entry key="H1" value="123.3340273164338" />
+      <entry key="H2" value="172.28732679624324" />
+      <entry key="H4" value="205.05238082640534" />
+      <entry key="D1" value="237.7796938802784" />
+      <entry key="W1" value="243.95384108381495" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="2.2310338140366212E-4" />
-      <entry key="MS500" value="0.1860806568958175" />
-      <entry key="S2" value="0.6567883516946479" />
-      <entry key="S5" value="0.848655229171644" />
-      <entry key="S10" value="1.0398167978336479" />
-      <entry key="S30" value="3.2853999137870393" />
-      <entry key="S60" value="6.732710982070735" />
-      <entry key="M2" value="10.42746928049931" />
-      <entry key="M5" value="13.896024891273447" />
-      <entry key="M10" value="15.354286064960563" />
-      <entry key="M15" value="15.8807749997029" />
-      <entry key="M30" value="16.429013355417837" />
-      <entry key="H1" value="16.711598789686636" />
-      <entry key="H2" value="16.8550642057533" />
-      <entry key="H4" value="16.92734726743748" />
-      <entry key="D1" value="16.987865451016827" />
-      <entry key="W1" value="16.99826586098054" />
+      <entry key="MS100" value="1.0753960299280125E-127" />
+      <entry key="MS500" value="4.0393704657855993E-26" />
+      <entry key="S2" value="4.4839941206788387E-7" />
+      <entry key="S5" value="0.0030295208457701245" />
+      <entry key="S10" value="0.07481573079931854" />
+      <entry key="S30" value="1.1256120109978298" />
+      <entry key="S60" value="2.5273016263507575" />
+      <entry key="M2" value="3.8677342999547215" />
+      <entry key="M5" value="5.034064193790352" />
+      <entry key="M10" value="6.098892919608468" />
+      <entry key="M15" value="8.268239085427748" />
+      <entry key="M30" value="17.25664436888152" />
+      <entry key="H1" value="29.99779327739699" />
+      <entry key="H2" value="40.98232414097266" />
+      <entry key="H4" value="48.23657593303502" />
+      <entry key="D1" value="55.421893052039046" />
+      <entry key="W1" value="56.7714953947456" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.05912861135368665" />
-      <entry key="MS500" value="0.6204381134925833" />
-      <entry key="S2" value="3.0545547702764857" />
-      <entry key="S5" value="8.689394237572294" />
-      <entry key="S10" value="18.31008461809688" />
-      <entry key="S30" value="40.11574443801958" />
-      <entry key="S60" value="56.1527203397624" />
-      <entry key="M2" value="74.85568636176595" />
-      <entry key="M5" value="99.69525940526813" />
-      <entry key="M10" value="113.45046342965416" />
-      <entry key="M15" value="119.01178721723687" />
-      <entry key="M30" value="125.16883870057376" />
-      <entry key="H1" value="128.4948402361655" />
-      <entry key="H2" value="130.22432165386542" />
-      <entry key="H4" value="131.10629566795097" />
-      <entry key="D1" value="131.85022686432475" />
-      <entry key="W1" value="131.97858359435796" />
+      <entry key="MS100" value="0.43527528166173524" />
+      <entry key="MS500" value="0.8547043951215435" />
+      <entry key="S2" value="1.5597741905974891" />
+      <entry key="S5" value="2.7838463954927772" />
+      <entry key="S10" value="4.106817021676232" />
+      <entry key="S30" value="8.963251123592011" />
+      <entry key="S60" value="14.310685442365441" />
+      <entry key="M2" value="19.47952607389504" />
+      <entry key="M5" value="24.09230291876086" />
+      <entry key="M10" value="28.70391213641326" />
+      <entry key="M15" value="39.13868039248127" />
+      <entry key="M30" value="85.25408558213414" />
+      <entry key="H1" value="153.3188356384533" />
+      <entry key="H2" value="213.26092069970667" />
+      <entry key="H4" value="253.2838517784375" />
+      <entry key="D1" value="293.20061385697926" />
+      <entry key="W1" value="300.72519418609625" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -121,10 +126,13 @@
     "Python.Coffeeorderqueuechallenge.executor": "Run",
     "Python.ComparisonsandBoolean.executor": "Run",
     "Python.Compound Interest.executor": "Run",
+    "Python.Compound Interest01.executor": "Run",
     "Python.Count Number of Words in a Sentence.executor": "Run",
     "Python.Counter class for easy frequency analysis.executor": "Run",
     "Python.Dictionaries exercise 2.0.executor": "Run",
+    "Python.Evenorodd.executor": "Run",
     "Python.Exceptions-tryexceptraise.executor": "Run",
+    "Python.Expense split.executor": "Run",
     "Python.Find Longest Word in Sentence.executor": "Run",
     "Python.Find Second Largest arr.executor": "Run",
     "Python.Function to sort a list of strings alphabetically.executor": "Run",
@@ -139,6 +147,7 @@
     "Python.Pizza builder.executor": "Run",
     "Python.Print first letter of each word in a string.executor": "Run",
     "Python.Pylint.executor": "Run",
+    "Python.Python programs01.executor": "Run",
     "Python.Remove Leading zeros.executor": "Run",
     "Python.Returnstatement.executor": "Run",
     "Python.Setsexercise.executor": "Run",
@@ -149,6 +158,8 @@
     "Python.arithmeticop.executor": "Run",
     "Python.comments.executor": "Run",
     "Python.conditionals.executor": "Run",
+    "Python.convert user input.executor": "Run",
+    "Python.converting days 01.executor": "Run",
     "Python.datatypescasting.executor": "Run",
     "Python.datatypespgm.executor": "Run",
     "Python.daypasspgm.executor": "Run",
@@ -185,6 +196,7 @@
     "Python.stringsbasics.executor": "Run",
     "Python.tuples.executor": "Run",
     "Python.type check and coversion.executor": "Run",
+    "Python.user greetings.executor": "Run",
     "Python.userinput.executor": "Run",
     "Python.userinputpgm.executor": "Run",
     "Python.variables.executor": "Run",
